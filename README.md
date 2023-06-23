@@ -1,5 +1,5 @@
 # AI-Image-Generation-Social-Media
-AI image generation social media using dalle API.
+AI image generation social media using dalle API. It is a MERN stack app. Photos are stored in Cloudinary for performance enhancement. 
 
 # To Run Front-End
 * npm install
